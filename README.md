@@ -1,1 +1,6 @@
-# git_lecture
+- local 
+  + working 
+  + staging 
+- remote
+  + my 
+  + root
