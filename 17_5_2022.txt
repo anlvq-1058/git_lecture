@@ -4,3 +4,7 @@ abc
 dong moi 1 da refactor
 
 dong moi 2
+
+dong moi 3
+
+dong moi 4
